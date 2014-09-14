@@ -60,9 +60,9 @@
 
  
     [NSURLConnection sendAsynchronousRequest:request queue:[[self class] sharedQueue] completionHandler:^(NSURLResponse *response, NSData *data, NSError *connectionError) {
-        //
+        //What kind of feedback would we like?
+        // In some ways this is just a 'fire and forget' situation
         
-        NSLog(@"got here");
     }];
 }
 
