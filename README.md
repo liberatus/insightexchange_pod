@@ -1,6 +1,7 @@
 # InsightExchange
 
-[![CI Status](http://img.shields.io/travis/winfred/InsightExchange.svg?style=flat)](https://travis-ci.org/winfred/InsightExchange)
+[![CI
+Status](https://travis-ci.org/liberatus/insightexchange_pod.svg?branch=master)](https://travis-ci.org/liberatus/insightexchange_pod)
 [![Version](https://img.shields.io/cocoapods/v/InsightExchange.svg?style=flat)](http://cocoadocs.org/docsets/InsightExchange)
 [![License](https://img.shields.io/cocoapods/l/InsightExchange.svg?style=flat)](http://cocoadocs.org/docsets/InsightExchange)
 [![Platform](https://img.shields.io/cocoapods/p/InsightExchange.svg?style=flat)](http://cocoadocs.org/docsets/InsightExchange)
