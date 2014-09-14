@@ -47,7 +47,9 @@ Once we start receiving insights from you, we will review them privately and bui
 InsightExchange is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-    pod "InsightExchange"
+    pod "InsightExchange", git: 'git@github.com:liberatus/insightexchange_pod.git'
+
+Use this git repo until we are added to CocoaPods trunk.
 
 ## Author
 
