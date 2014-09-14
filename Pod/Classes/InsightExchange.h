@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-//#define kInsightExchangeEndpoint @"https://secure.insightexchange.co/sellers/api/"
-#define kInsightExchangeEndpoint @"http://localhost:5000/sellers/api/"
+#define kInsightExchangeEndpoint @"https://secure.insightexchange.co/sellers/api/"
+//#define kInsightExchangeEndpoint @"http://localhost:5000/sellers/api/"
 
 @interface InsightExchange : NSObject
 
